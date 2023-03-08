@@ -6,7 +6,7 @@
 # 个人信息
 
 * 王鑫/男/25岁
-* 软件工程/全日制专科+非全本科（学信网可查）
+* 软件工程/本科
 * 工作年限：4年
 * 应聘职位：Java开发工程师
 * 应聘城市：西安
@@ -82,7 +82,7 @@
 
 ## 技术文章
 
-* [RabbitMQ消息模型详解，你只需要这一篇，学不会来打我](https://blog.csdn.net/w306026355/article/details/105467182)
+* [RabbitMQ消息模型详解，你只需要这一篇](https://blog.csdn.net/w306026355/article/details/105467182)
 * [Kafka基本概念以及整合SpringBoot](https://blog.csdn.net/w306026355/article/details/128584232)
 * [玩转CompletableFuture线程异步编排，看这一篇就够了](https://blog.csdn.net/w306026355/article/details/109707269)
 * [简简单单学习ThreadPoolExecutor线程池](https://blog.csdn.net/w306026355/article/details/109586661)
